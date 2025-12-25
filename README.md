@@ -43,7 +43,7 @@ The project is built with a clean separation between frontend and backend, focus
 ---
 
 ## 📁 Project Structure  
-
+```
 StreamSphere/
 │
 ├── src/
@@ -67,7 +67,7 @@ StreamSphere/
 │ │ ├── utils/
 │ │ └── routes/
 │ └── index.html
-
+```
 ---
 
 ## ⚙️ Setup & Usage  
