@@ -116,10 +116,11 @@ You are free to use, modify, and distribute it.
 
 ---
 
-## 👤 Author  
-**Mohid Arshad**  
-- GitHub: (akamohid)[https://github.com/akamohid]
-- LinkedIn: (akamohid)[https://www.linkedin.com/in/akamohid]
+## 👥 Team Members
+
+- **Mohid Arshad** — [GitHub](https://github.com/akamohid) | [LinkedIn](https://www.linkedin.com/in/akamohid/)  
+- **Mohammad Hasnain** — [LinkedIn](https://www.linkedin.com/in/mohammad-hasnain-3670452a7/)  
+- **Tahir Mehmood** — [LinkedIn](https://www.linkedin.com/in/tahir-mehmood-622a412a0/)
 
 ---
 
